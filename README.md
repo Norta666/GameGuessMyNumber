@@ -1,0 +1,2 @@
+# GameGuessMyNumber
+Simple game JavaScript
